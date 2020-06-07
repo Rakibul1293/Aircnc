@@ -1,8 +1,8 @@
 # Aircnc
 ![](/air-cronic.png?raw=true)
 
-# [LIVE](https://air-cnc-b2055.firebaseapp.com)
-# [Project’s Overview](https://medium.com/@rakibulislam_43679/sample-example-of-projects-overview-c6dab0aa0e78)
+# [Click to see  Live Site](https://air-cnc-b2055.firebaseapp.com)
+# [Click to see Project’s Overview](https://medium.com/@rakibulislam_43679/sample-example-of-projects-overview-c6dab0aa0e78)
 
 We build an “Aircnc” or hotel booking website. That helps people to find out their hotel which is available. Using our website people can share experiences about their hotel. By our website, people will be able to see the hotel within a particular area. And they can also pay their payment using our payment gateway.
 
